@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className='bg-background border-t'>
+    <footer className='bg-background border-t border-gray-700'>
       <div className='container mx-auto px-4 py-4 text-center'>
         <p className='text-foreground'>
           &copy; 2024 Date Range Picker. All rights reserved.
